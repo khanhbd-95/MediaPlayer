@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/screens/HomeScreen.qml</file>
+        <file>ui/screens/PlayerScreen.qml</file>
+        <file>ui/components/IconButton.qml</file>
+        <file>assets/icon/10secBack_Default.png</file>
+        <file>assets/icon/10secBack_Hover.png</file>
+        <file>assets/icon/10secForward_Default.png</file>
+        <file>assets/icon/10secForward_Hover.png</file>
+        <file>assets/icon/FullScreen_Default.png</file>
+        <file>assets/icon/FullScreen_Hover.png</file>
+        <file>assets/icon/ListofEpisodes_Default.png</file>
+        <file>assets/icon/ListofEpisodes_Hover.png</file>
+        <file>assets/icon/Mute_Default.png</file>
+        <file>assets/icon/Mute_Hover.png</file>
+        <file>assets/icon/NextEpisode_Default.png</file>
+        <file>assets/icon/NextEpisode_Hover.png</file>
+        <file>assets/icon/Play_Default.png</file>
+        <file>assets/icon/Play_Hover.png</file>
+        <file>assets/icon/Speed_Default.png</file>
+        <file>assets/icon/Speed_Hover.png</file>
+        <file>assets/icon/Subtitles_Default.png</file>
+        <file>assets/icon/Subtitles_Hover.png</file>
+        <file>assets/icon/Sound_High_Default.png</file>
+        <file>assets/icon/Sound_High_Hover.png</file>
+        <file>assets/icon/Sound_Midle_Default.png</file>
+        <file>assets/icon/Sound_Midle_Hover.png</file>
+        <file>ui/components/SoundSlider.qml</file>
+    </qresource>
+</RCC>

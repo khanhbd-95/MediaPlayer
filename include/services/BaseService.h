@@ -1,0 +1,4 @@
+#ifndef BASESERVICE_H
+#define BASESERVICE_H
+
+#endif // BASESERVICE_H
